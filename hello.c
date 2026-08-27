@@ -14,6 +14,7 @@ int main() {
 
     printf("Name: Jamison Dixon!\n");
     printf("Major: Electrical & Computer Engineering\n");
-
+    printf("Name: Alexander Franz Schwarz!\n");
+    printf("Major: Computer Science\n");
     return 0;
 }
